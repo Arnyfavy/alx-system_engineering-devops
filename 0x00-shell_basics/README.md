@@ -1,1 +1,1 @@
-to display the current file path
+to list the content of current directory
