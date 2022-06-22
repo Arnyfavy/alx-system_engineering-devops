@@ -1,1 +1,1 @@
-display current directory long format with files with group and user id numerically
+create a script that creates a directory named my_first_directory in tmp
