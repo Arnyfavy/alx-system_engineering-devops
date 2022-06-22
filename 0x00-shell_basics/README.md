@@ -1,1 +1,1 @@
-change working directory to home directory
+list files in long format
